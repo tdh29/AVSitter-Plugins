@@ -1,0 +1,3 @@
+Purpose: You have a piece of furniture or some other item using AV Sitter (https://github.com/AVsitter/AVsitter) and you want to hide or show elements of the object depending on thesitting state. For example to create illusion of blankets changing on a bed or a cushion being removed when someone sits on a chair. 
+
+Name all linked objects either "Sit" or "Stand". Links named "Stand" will be visible when there is no one sitting on the furniture. When someone sits then all links named "Stand" will hide and all links named "Sit" will show. 
